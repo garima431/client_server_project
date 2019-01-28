@@ -1,0 +1,13 @@
+Steps to follow using cmd {Open cmd on same path where files are present}
+
+Step 1: Compile both java file by using command 
+Command is:-
+javac MyClient.java
+javac MyServer.java
+
+Step 2: By performing step 1 we get two class files,now we need to run them
+Command is:-
+java MyServer
+Java MyClient
+
+Step 3: Connection is establish between Client and Server now they can communicate.
